@@ -1,1 +1,3 @@
-Created file from Github
+<?php
+echo "Created file from Github";
+?>
